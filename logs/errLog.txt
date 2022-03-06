@@ -5,3 +5,16 @@
 20220305	22:50:25	3c4a2225-143e-4dcd-89e6-f63d52cddce8	TypeError: Cannot read properties of undefined (reading 'split')
 20220306	12:48:06	7570373a-5ac8-4496-b174-da5e60f9fd82	Error: Cannot set headers after they are sent to the client
 20220306	12:48:18	7e8a6fb6-f162-4029-a9dc-9affd078f608	Error: Cannot set headers after they are sent to the client
+20220306	14:48:13	64bf011c-3970-4257-a82f-37f5bca4eb38	Error: Not allowed by CORS
+20220306	14:50:27	63b1498a-9294-4874-8a40-9df00a684d93	Error: Not allowed by CORS
+20220306	14:55:29	b5307502-1e6f-4c64-af1b-9ad3c9771cf2	TypeError: whitelist.includes is not a function
+20220306	14:55:39	7bf0eab3-d2b7-4f57-ab88-c045aa0975de	TypeError: whitelist.includes is not a function
+20220306	14:56:26	cfc8d8bc-f98b-441b-8b84-7724765bc7cc	TypeError: whitelist.includes is not a function
+20220306	14:56:38	d6296a0d-563d-43de-aa88-dc99181d598e	TypeError: whitelist.includes is not a function
+20220306	14:56:38	9ad1f57e-6bce-4e68-b843-c9a2d79bf894	TypeError: whitelist.includes is not a function
+20220306	14:57:13	0790517f-6329-4224-b21b-ed4f3794ac8d	TypeError: res.headers is not a function
+20220306	14:57:32	b7b7d499-1667-4cd4-bab2-cf0ee44a0e0d	TypeError: res.headers is not a function
+20220306	14:58:04	86f4515d-5c79-493e-92db-7b71dde40dc8	TypeError: res.headers is not a function
+20220306	14:58:04	633d655c-789e-4c0a-a803-94906d988564	TypeError: res.headers is not a function
+20220306	14:58:40	5b88630f-b73d-42d4-b4a1-f6f5ec33706a	Error: Not allowed by CORS
+20220306	15:00:26	f6f66374-cf27-448b-bb2c-46646ac98887	Error: Not allowed by CORS
